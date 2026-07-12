@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔭 I’m currently working on **My Personal Portfolio Website**<br><br>👯 I’m looking to collaborate on **Frontend Development Projects**<br><br>🤝 I’m looking for help with **React.js and Modern Web Development**<br><br>🌱 I’m currently learning **JavaScript, Responsive Web Design, and GitHub**<br><br>💬 Ask me about **HTML, CSS, JavaScript, Python, and Frontend Development**<br><br>⚡ Fun fact: **I'm an ECE student who enjoys building websites and creating pencil sketches in my free time.**
+<br>🔭 I’m currently working on **My Personal Portfolio Website**<br><br>👯 I’m looking to collaborate on **Frontend Development Projects**<br><br>🤝 I’m looking for help with **JavaScipt and Modern Web Development**<br><br>🌱 I’m currently learning **JavaScript, Responsive Web Design, and GitHub**<br><br>💬 Ask me about **HTML, CSS, JavaScript, Python, and Frontend Development**<br><br>⚡ Fun fact: **I'm an ECE student who enjoys building websites and creating pencil sketches in my free time.**
 
 
 ## 🌐 Socials:
